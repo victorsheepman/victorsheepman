@@ -12,7 +12,7 @@
 
 - 🌱 actualmente estoy aprendiendo **Swift Charts**
 
-- 💬 Preguntame sobre **Swift, SwiftUI & Combine **
+- 💬 Preguntame sobre **Swift, SwiftUI & Combine**
 
 - 📫 Como llegar a mi **victormarqueziosdev@gmail.com**
 
